@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:iOSNativeBaseFramework/iOSNativeBaseFramework.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:iOSNativeBaseApp/iOSNativeBaseApp.xcodeproj">
    </FileRef>
 </Workspace>
