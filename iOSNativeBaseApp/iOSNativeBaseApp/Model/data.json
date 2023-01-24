@@ -1,0 +1,136 @@
+{
+    "components": [
+        {
+            "name": "Button",
+            "properties": [
+                {
+                    "property": "Kind",
+                    "type": "segmentedControl",
+                    "values": [
+                        "Solid",
+                        "Subtle",
+                        "Outline",
+                        "Plain"
+                    ]
+                },
+                {
+                    "property": "Size",
+                    "type": "segmentedControl",
+                    "values": [
+                        "Small",
+                        "Medium",
+                        "Large"
+                    ]
+                },
+                {
+                    "property": "Color",
+                    "type": "picker",
+                    "values": [
+                        "Red",
+                        "Blue",
+                        "Green",
+                        "Orange",
+                        "Yellow",
+                        "Pink",
+                        "Black"
+                    ]
+                },
+                {
+                    "property": "Enabled",
+                    "type": "switch",
+                    "values": [
+                        "true",
+                        "false"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Checkbox",
+            "properties": [
+                {
+                    "property": "Kind",
+                    "type": "segmentedControl",
+                    "values": [
+                        "Checkbox",
+                        "Radio"
+                    ]
+                },
+                {
+                    "property": "Size",
+                    "type": "segmentedControl",
+                    "values": [
+                        "Small",
+                        "Medium",
+                        "Large"
+                    ]
+                },
+                {
+                    "property": "Color",
+                    "type": "picker",
+                    "values": [
+                        "Red",
+                        "Blue",
+                        "Green",
+                        "Orange",
+                        "Yellow",
+                        "Pink",
+                        "Black"
+                    ]
+                },
+                {
+                    "property": "Enabled",
+                    "type": "switch",
+                    "values": [
+                        "true",
+                        "false"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Slider",
+            "properties": [
+                {
+                    "property": "Size",
+                    "type": "segmentedControl",
+                    "values": [
+                        "Small",
+                        "Medium",
+                        "Large"
+                    ]
+                },
+                {
+                    "property": "Thumb",
+                    "type": "segmentedControl",
+                    "values": [
+                        "Circle",
+                        "Square",
+                        "Diamond"
+                    ]
+                },
+                {
+                    "property": "Color",
+                    "type": "picker",
+                    "values": [
+                        "Red",
+                        "Blue",
+                        "Green",
+                        "Orange",
+                        "Yellow",
+                        "Pink",
+                        "Black"
+                    ]
+                },
+                {
+                    "property": "Enabled",
+                    "type": "switch",
+                    "values": [
+                        "true",
+                        "false"
+                    ]
+                }
+            ]
+        }
+    ]
+}
